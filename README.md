@@ -21,6 +21,16 @@ Este repositório contém meu plano de estudo para as áreas de interesse até o
 
 ---
 
+Você tem um total de 7 disciplinas no seu plano de estudos. São elas:
+- Banco de Dados com Node
+- Three.js
+- To-Do List em JavaScript
+- Django
+- Modelagem 3D
+- DevOps e Contêineres
+- Motores CC
+Cada uma delas está distribuída ao longo das semanas para garantir que você tenha dois tópicos por dia, como preferido.
+
 ## 📖 Detalhes do Estudo
 
 ### Semana 1 (30/09 - 04/10)
