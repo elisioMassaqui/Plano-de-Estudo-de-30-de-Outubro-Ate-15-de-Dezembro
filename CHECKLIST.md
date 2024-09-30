@@ -6,9 +6,9 @@ Este checklist ajuda a acompanhar seu progresso ao longo do plano de estudos. Ma
 
 ## Semana 1 (30/09 - 04/10)
 
-- [ ] **📅 Segunda - Banco de Dados com Node**
-  - [ ] 13h-14h: 📖 Teoria sobre NoSQL e MongoDB.
-  - [ ] 14h-15h: 💻 Prática: Criar e conectar um banco de dados.
+- [x] **📅 Segunda - Banco de Dados com Node**
+  - [x] 13h-14h: 📖 Teoria sobre NoSQL e MongoDB.
+  - [x] 14h-15h: 💻 Prática: Criar e conectar um banco de dados.
 
 - [ ] **📅 Terça - Three.js**
   - [ ] 13h-14h: 📖 Teoria: Introdução ao Three.js e suas funcionalidades.
