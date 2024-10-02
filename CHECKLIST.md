@@ -10,13 +10,13 @@ Este checklist ajuda a acompanhar seu progresso ao longo do plano de estudos. Ma
   - [x] 13h-14h: 📖 Teoria sobre NoSQL e MongoDB.
   - [x] 14h-15h: 💻 Prática: Criar e conectar um banco de dados.
 
-- [ ] **📅 Terça - Three.js**
-  - [ ] 13h-14h: 📖 Teoria: Introdução ao Three.js e suas funcionalidades.
-  - [ ] 14h-15h: 💻 Prática: Criar uma cena básica.
+- [x] **📅 Terça - Three.js**
+  - [x] 13h-14h: 📖 Teoria: Introdução ao Three.js e suas funcionalidades.
+  - [x] 14h-15h: 💻 Prática: Criar uma cena básica.
 
-- [ ] **📅 Quarta - To-Do List em JavaScript**
-  - [ ] 13h-14h: 📖 Teoria: Estruturas de dados em JavaScript.
-  - [ ] 14h-15h: 💻 Prática: Estruturar o projeto da lista de tarefas.
+- [x] **📅 Quarta - To-Do List em JavaScript**
+  - [x] 13h-14h: 📖 Teoria: Estruturas de dados em JavaScript.
+  - [x] 14h-15h: 💻 Prática: Estruturar o projeto da lista de tarefas.
 
 - [ ] **📅 Quinta - Django**
   - [ ] 13h-14h: 📖 Teoria: Configuração inicial do Django.
