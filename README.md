@@ -13,20 +13,20 @@ Tudo que está aqui deve ir num portifólio também...
 ### Semana 1 (30/09 - 04/10)
 
 - **📅 Segunda - Banco de Dados com Node**
-  - **[ ] 13h-14h**: 📖 Teoria sobre NoSQL e MongoDB.
-  - **[ ] 14h-15h**: 💻 Prática: Criar e conectar um banco de dados.
+  - **[x] 13h-14h**: 📖 Teoria sobre NoSQL e MongoDB.
+  - **[x] 14h-15h**: 💻 Prática: Criar e conectar um banco de dados.
 
 - **📅 Terça - Three.js**
-  - **[ ] 13h-14h**: 📖 Teoria: Introdução ao Three.js e suas funcionalidades.
-  - **[ ] 14h-15h**: 💻 Prática: Criar uma cena básica.
+  - **[x] 13h-14h**: 📖 Teoria: Introdução ao Three.js e suas funcionalidades.
+  - **[x] 14h-15h**: 💻 Prática: Criar uma cena básica.
 
 - **📅 Quarta - To-Do List em JavaScript**
-  - **[ ] 13h-14h**: 📖 Teoria: Estruturas de dados em JavaScript.
+  - **[x] 13h-14h**: 📖 Teoria: Estruturas de dados em JavaScript.
   - **[ ] 14h-15h**: 💻 Prática: Estruturar o projeto da lista de tarefas.
 
 - **📅 Quinta - UnityWebLauncher**
-  - **[ ] 13h-14h**: 📖 Teoria: Configuração inicial do UnityWebLauncher.
-  - **[ ] 14h-15h**: 💻 Prática: Criar um app básico.
+  - **[x] 13h-14h**: 📖 Teoria: Configuração inicial do UnityWebLauncher.
+  - **[x] 14h-15h**: 💻 Prática: Criar um app básico.
 
 - **📅 Sexta - Modelagem 3D**
   - **[ ] 13h-14h**: 📖 Teoria: Introdução ao Blender e suas ferramentas.
