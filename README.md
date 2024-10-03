@@ -1,10 +1,6 @@
 # 📚 Plano de Estudo - Até 15 de Dezembro
 
-Fazer **portifólio** plz
-
 Este repositório contém meu plano de estudo para as áreas de interesse até o dia 15 de dezembro. O horário de estudo é de segunda a sexta, das 13h às 16h.
-
-Tudo que está aqui deve ir num portifólio também...
 
 ---
 
@@ -34,21 +30,21 @@ Tudo que está aqui deve ir num portifólio também...
 
 ### Semana 2 (07/10 - 11/10)
 
-- **📅 Segunda - Three.js**
-  - **[ ] 13h-14h**: 📖 Teoria: Animações e interações em Three.js.
-  - **[ ] 14h-15h**: 💻 Prática: Adicionar animações a uma cena.
-
-- **📅 Terça - Motores CC**
-  - **[ ] 13h-14h**: 📖 Teoria: Fundamentos de motores de corrente contínua.
-  - **[ ] 14h-15h**: 💻 Prática: Simulação de um motor CC.
-
-- **📅 Quarta - Banco de Dados com Node**
+- **📅 Segunda - Banco de Dados com Node**
   - **[ ] 13h-14h**: 📖 Teoria: Consultas básicas com MongoDB.
   - **[ ] 14h-15h**: 💻 Prática: Criar e testar consultas.
 
-- **📅 Quinta - Three.js**
+- **📅 Terça - Three.js**
   - **[ ] 13h-14h**: 📖 Teoria: Animações e interações em Three.js.
   - **[ ] 14h-15h**: 💻 Prática: Adicionar animações a uma cena.
+
+- **📅 Quarta - Motores CC**
+  - **[ ] 13h-14h**: 📖 Teoria: Fundamentos de motores de corrente contínua.
+  - **[ ] 14h-15h**: 💻 Prática: Simulação de um motor CC.
+
+- **📅 Quinta - UnityWebLauncher**
+  - **[ ] 13h-14h**: 📖 Teoria: Configuração avançada do UnityWebLauncher.
+  - **[ ] 14h-15h**: 💻 Prática: Adicionar funcionalidades ao app.
 
 - **📅 Sexta - Modelagem 3D**
   - **[ ] 13h-14h**: 📖 Teoria: Texturização de modelos.
@@ -64,13 +60,13 @@ Tudo que está aqui deve ir num portifólio também...
   - **[ ] 13h-14h**: 📖 Teoria: Manipulação do DOM.
   - **[ ] 14h-15h**: 💻 Prática: Implementar funcionalidades de adicionar e remover tarefas.
 
-- **📅 Quarta - DevOps e Contêineres**
-  - **[ ] 13h-14h**: 📖 Teoria: Integração contínua (CI).
-  - **[ ] 14h-15h**: 💻 Prática: Configurar um pipeline simples.
+- **📅 Quarta - Banco de Dados com Node**
+  - **[ ] 13h-14h**: 📖 Teoria: Modelagem de dados.
+  - **[ ] 14h-15h**: 💻 Prática: Criar um modelo de dados.
 
-- **📅 Quinta - Motores CC**
-  - **[ ] 13h-14h**: 📖 Teoria: Aplicações práticas de motores CC.
-  - **[ ] 14h-15h**: 💻 Prática: Controlar um motor CC com Arduino.
+- **📅 Quinta - UnityWebLauncher**
+  - **[ ] 13h-14h**: 📖 Teoria: Debugging no UnityWebLauncher.
+  - **[ ] 14h-15h**: 💻 Prática: Resolver bugs no app.
 
 - **📅 Sexta - Revisão**
   - **[ ] 13h-15h**: 📝 Revisar e testar os conceitos aprendidos nas semanas anteriores.
@@ -89,26 +85,26 @@ Tudo que está aqui deve ir num portifólio também...
   - **[ ] 13h-14h**: 📖 Teoria: Rigging de modelos.
   - **[ ] 14h-15h**: 💻 Prática: Rigging de um modelo simples.
 
-- **📅 Quinta - To-Do List em JavaScript**
-  - **[ ] 13h-14h**: 📖 Teoria: Armazenamento local.
-  - **[ ] 14h-15h**: 💻 Prática: Implementar armazenamento local.
+- **📅 Quinta - UnityWebLauncher**
+  - **[ ] 13h-14h**: 📖 Teoria: Exportação de projetos Unity.
+  - **[ ] 14h-15h**: 💻 Prática: Exportar um projeto básico.
 
 - **📅 Sexta - Revisão**
   - **[ ] 13h-15h**: 📝 Revisar os tópicos da semana.
 
 ### Semana 5 (28/10 - 01/11)
 
-- **📅 Segunda - DevOps e Contêineres**
-  - **[ ] 13h-14h**: 📖 Teoria: Docker básico.
-  - **[ ] 14h-15h**: 💻 Prática: Criar um contêiner simples.
-
-- **📅 Terça - Motores CC**
+- **📅 Segunda - Motores CC**
   - **[ ] 13h-14h**: 📖 Teoria: Controle de velocidade.
   - **[ ] 14h-15h**: 💻 Prática: Controlar a velocidade de um motor CC.
 
-- **📅 Quarta - Three.js**
+- **📅 Terça - Three.js**
   - **[ ] 13h-14h**: 📖 Teoria: Materiais avançados.
   - **[ ] 14h-15h**: 💻 Prática: Aplicar materiais complexos.
+
+- **📅 Quarta - UnityWebLauncher**
+  - **[ ] 13h-14h**: 📖 Teoria: Performance no UnityWebLauncher.
+  - **[ ] 14h-15h**: 💻 Prática: Melhorar a performance do app.
 
 - **📅 Quinta - Modelagem 3D**
   - **[ ] 13h-14h**: 📖 Teoria: Animação de modelos.
@@ -131,93 +127,39 @@ Tudo que está aqui deve ir num portifólio também...
   - **[ ] 13h-14h**: 📖 Teoria: Interações com o usuário.
   - **[ ] 14h-15h**: 💻 Prática: Implementar controles de câmera.
 
-- **📅 Quinta - Modelagem 3D**
-  - **[ ] 13h-14h**: 📖 Teoria: Animação por chave.
-  - **[ ] 14h-15h**: 💻 Prática: Criar uma animação simples.
+- **📅 Quinta - UnityWebLauncher**
+  - **[ ] 13h-14h**: 📖 Teoria: Testes de unidade.
+  - **[ ] 14h-15h**: 💻 Prática: Criar testes para o app.
 
 - **📅 Sexta - Revisão**
   - **[ ] 13h-15h**: 📝 Revisar os tópicos da semana.
 
 ### Semana 7 (11/11 - 15/11)
 
-- **📅 Segunda - DevOps e Contêineres**
-  - **[ ] 13h-14h**: 📖 Teoria: Kubernetes básico.
-  - **[ ] 14h-15h**: 💻 Prática: Criar um cluster Kubernetes.
-
-- **📅 Terça - Motores CC**
+- **📅 Segunda - Motores CC**
   - **[ ] 13h-14h**: 📖 Teoria: Sensores e motores.
   - **[ ] 14h-15h**: 💻 Prática: Integrar um sensor com um motor.
 
-- **📅 Quarta - Three.js**
+- **📅 Terça - Three.js**
   - **[ ] 13h-14h**: 📖 Teoria: Física em 3D.
-  - **[ ] 14h-15h**: 💻 Prática: Adicionar física à cena.
+  - **[ ] 14h-15h**: 💻 Prática: Adicionar física a um projeto.
+
+- **📅 Quarta - UnityWebLauncher**
+  - **[ ] 13h-14h**: 📖 Teoria: Segurança em apps.
+  - **[ ] 14h-15h**: 💻 Prática: Implementar segurança.
 
 - **📅 Quinta - Modelagem 3D**
-  - **[ ] 13h-14h**: 📖 Teoria: Modelagem de ambientes.
-  - **[ ] 14h-15h**: 💻 Prática: Criar um ambiente 3D.
+  - **[ ] 13h-14h**: 📖 Teoria: Renderização.
+  - **[ ] 14h-15h**: 💻 Prática: Renderizar uma cena.
 
 - **📅 Sexta - Revisão**
   - **[ ] 13h-15h**: 📝 Revisar os tópicos da semana.
 
-### Semana 8 (18/11 - 22/11)
+---
 
-- **📅 Segunda - Banco de Dados com Node**
-  - **[ ] 13h-14h**: 📖 Teoria: Segurança em bancos de dados.
-  - **[ ] 14h-15h**: 💻 Prática: Implementar autenticação.
+## 🔗 Links Úteis
 
-- **📅 Terça - Three.js**
-  - **[ ] 13h-14h**: 📖 Teoria: WebGL avançado.
-  - **[ ] 14h-15h**: 💻 Prática: Otimizar uma cena WebGL.
-
-- **📅 Quarta - To-Do List em JavaScript**
-  - **[ ] 13h-14h**: 📖 Teoria: Testes automatizados.
-  - **[ ] 14h-15h**: 💻 Prática: Escrever testes para a lista de tarefas.
-
-- **📅 Quinta - Modelagem 3D**
-  - **[ ] 13h-14h**: 📖 Teoria: Rendering de alta qualidade.
-  - **[ ] 14h-15h**: 💻 Prática: Renderizar um modelo complexo.
-
-- **📅 Sexta - Revisão**
-  - **[ ] 13h-15h**: 📝 Revisar os tópicos da semana.
-
-### Semana 9 (25/11 - 29/11)
-
-- **📅 Segunda - DevOps e Contêineres**
-  - **[ ] 13h-14h**: 📖 Teoria: Monitoramento e logs.
-  - **[ ] 14h-15h**: 💻 Prática: Configurar um sistema de monitoramento.
-
-- **📅 Terça - Motores CC**
-  - **[ ] 13h-14h**: 📖 Teoria: Controle de motores passo a passo.
-  - **[ ] 14h-15h**: 💻 Prática: Implementar controle de um motor passo a passo.
-
-- **📅 Quarta - Three.js**
-  - **[ ] 13h-14h**: 📖 Teoria: Renderização em tempo real.
-  - **[ ] 14h-15h**: 💻 Prática: Criar uma aplicação interativa em Three.js.
-
-- **📅 Quinta - Modelagem 3D**
-  - **[ ] 13h-14h**: 📖 Teoria: Exportação de modelos.
-  - **[ ] 14h-15h**: 💻 Prática: Exportar um modelo para diferentes formatos.
-
-- **📅 Sexta - Revisão**
-  - **[ ] 13h-15h**: 📝 Revisar os tópicos da semana.
-
-### Semana 10 (02/12 - 06/12)
-
-- **📅 Segunda - Banco de Dados com Node**
-  - **[ ] 13h-14h**: 📖 Teoria: Trabalhando com dados em tempo real.
-  - **[ ] 14h-15h**: 💻 Prática: Configurar um banco de dados em tempo real.
-
-- **📅 Terça - Three.js**
-  - **[ ] 13h-14h**: 📖 Teoria: Criando gráficos em 3D para web.
-  - **[ ] 14h-15h**: 💻 Prática: Criar gráficos interativos.
-
-- **📅 Quarta - To-Do List em JavaScript**
-  - **[ ] 13h-14h**: 📖 Teoria: Usabilidade e design.
-  - **[ ] 14h-15h**: 💻 Prática: Melhorar a interface da lista de tarefas.
-
-- **📅 Quinta - Modelagem 3D**
-  - **[ ] 13h-14h**: 📖 Teoria: Renderização de cenários complexos.
-  - **[ ] 14h-15h**: 💻 Prática: Criar um cenário 3D complexo.
-
-- **📅 Sexta - Revisão Final**
-  - **[ ] 13h-15h**: 📝 Revisar tudo o que aprendeu nas 10 semanas.
+- [MongoDB](https://www.mongodb.com/)
+- [Three.js](https://threejs.org/)
+- [Blender](https://www.blender.org/)
+- [Node.js](https://nodejs.org/)
