@@ -22,7 +22,7 @@ Tudo que está aqui deve ir num portifólio também...
 
 - **📅 Quarta - To-Do List em JavaScript**
   - **[x] 13h-14h**: 📖 Teoria: Estruturas de dados em JavaScript.
-  - **[ ] 14h-15h**: 💻 Prática: Estruturar o projeto da lista de tarefas.
+  - **[x] 14h-15h**: 💻 Prática: Estruturar o projeto da lista de tarefas.
 
 - **📅 Quinta - UnityWebLauncher**
   - **[x] 13h-14h**: 📖 Teoria: Configuração inicial do UnityWebLauncher.
