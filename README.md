@@ -25,8 +25,8 @@ Este repositório contém meu plano de estudo para as áreas de interesse até o
   - **[x] 14h-15h**: 💻 Prática: Criar um app básico.
 
 - **📅 Sexta - Modelagem 3D**
-  - **[ ] 13h-14h**: 📖 Teoria: Introdução ao Blender e suas ferramentas.
-  - **[ ] 14h-15h**: 💻 Prática: Criar um modelo 3D simples.
+  - **[x] 13h-14h**: 📖 Teoria: Introdução ao Blender e suas ferramentas.
+  - **[x] 14h-15h**: 💻 Prática: Criar um modelo 3D simples.
 
 ### Semana 2 (07/10 - 11/10)
 
