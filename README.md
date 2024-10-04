@@ -10,19 +10,19 @@ Este repositório contém meu plano de estudo para as áreas de interesse até o
 
 - **📅 Segunda - Banco de Dados com Node**
   - **[x] 13h-14h**: 📖 Teoria sobre NoSQL e MongoDB.
-  - **[x] 14h-15h**: 💻 Prática: Criar e conectar um banco de dados.
+  - **[-] 14h-15h**: 💻 Prática: Criar e conectar um banco de dados.
 
 - **📅 Terça - Three.js**
   - **[x] 13h-14h**: 📖 Teoria: Introdução ao Three.js e suas funcionalidades.
   - **[x] 14h-15h**: 💻 Prática: Criar uma cena básica.
 
 - **📅 Quarta - To-Do List em JavaScript**
-  - **[x] 13h-14h**: 📖 Teoria: Estruturas de dados em JavaScript.
-  - **[x] 14h-15h**: 💻 Prática: Estruturar o projeto da lista de tarefas.
+  - **[-] 13h-14h**: 📖 Teoria: Estruturas de dados em JavaScript.
+  - **[-] 14h-15h**: 💻 Prática: Estruturar o projeto da lista de tarefas.
 
 - **📅 Quinta - UnityWebLauncher**
-  - **[x] 13h-14h**: 📖 Teoria: Configuração inicial do UnityWebLauncher.
-  - **[x] 14h-15h**: 💻 Prática: Criar um app básico.
+  - **[-] 13h-14h**: 📖 Teoria: Configuração inicial do UnityWebLauncher.
+  - **[-] 14h-15h**: 💻 Prática: Criar um app básico.
 
 - **📅 Sexta - Modelagem 3D**
   - **[x] 13h-14h**: 📖 Teoria: Introdução ao Blender e suas ferramentas.
