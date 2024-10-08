@@ -31,8 +31,8 @@ Este repositório contém meu plano de estudo para as áreas de interesse até o
 ### Semana 2 (07/10 - 11/10)
 
 - **📅 Segunda - Banco de Dados com Node**
-  - **[ ] 13h-14h**: 📖 Teoria: Consultas básicas com MongoDB.
-  - **[ ] 14h-15h**: 💻 Prática: Criar e testar consultas.
+  - **[-] 13h-14h**: 📖 Teoria: Consultas básicas com MongoDB.
+  - **[-] 14h-15h**: 💻 Prática: Criar e testar consultas.
 
 - **📅 Terça - Three.js**
   - **[ ] 13h-14h**: 📖 Teoria: Animações e interações em Three.js.
