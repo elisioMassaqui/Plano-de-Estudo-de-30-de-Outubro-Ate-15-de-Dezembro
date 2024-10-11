@@ -35,20 +35,20 @@ Este repositório contém meu plano de estudo para as áreas de interesse até o
   - **[-] 14h-15h**: 💻 Prática: Criar e testar consultas.
 
 - **📅 Terça - Three.js**
-  - **[ ] 13h-14h**: 📖 Teoria: Animações e interações em Three.js.
-  - **[ ] 14h-15h**: 💻 Prática: Adicionar animações a uma cena.
+  - **[x] 13h-14h**: 📖 Teoria: Animações e interações em Three.js.
+  - **[x] 14h-15h**: 💻 Prática: Adicionar animações a uma cena.
 
 - **📅 Quarta - Motores CC**
-  - **[ ] 13h-14h**: 📖 Teoria: Fundamentos de motores de corrente contínua.
-  - **[ ] 14h-15h**: 💻 Prática: Simulação de um motor CC.
+  - **[x] 13h-14h**: 📖 Teoria: Fundamentos de motores de corrente contínua.
+  - **[x] 14h-15h**: 💻 Prática: Simulação de um motor CC.
 
 - **📅 Quinta - UnityWebLauncher**
-  - **[ ] 13h-14h**: 📖 Teoria: Configuração avançada do UnityWebLauncher.
-  - **[ ] 14h-15h**: 💻 Prática: Adicionar funcionalidades ao app.
+  - **[-] 13h-14h**: 📖 Teoria: Configuração avançada do UnityWebLauncher.
+  - **[-] 14h-15h**: 💻 Prática: Adicionar funcionalidades ao app.
 
 - **📅 Sexta - Modelagem 3D**
-  - **[ ] 13h-14h**: 📖 Teoria: Texturização de modelos.
-  - **[ ] 14h-15h**: 💻 Prática: Aplicar texturas em um modelo.
+  - **[x] 13h-14h**: 📖 Teoria: Texturização de modelos.
+  - **[x] 14h-15h**: 💻 Prática: Aplicar texturas em um modelo.
 
 ### Semana 3 (14/10 - 18/10)
 
